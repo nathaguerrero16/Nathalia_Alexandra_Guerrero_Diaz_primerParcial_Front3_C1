@@ -1,0 +1,11 @@
+.cardContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 2px solid firebrick;
+    border-radius: 10px;
+    margin: auto;
+    padding: auto;
+    background-color: #fdf2da;
+    color: firebrick;
+  }
